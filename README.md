@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauJho
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on APIs
 - 📫 How to reach me maurieljng@gmail.com
 
